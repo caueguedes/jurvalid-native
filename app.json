@@ -1,0 +1,14 @@
+{
+ "expo": {
+  "name": "Jurvalid",
+  "version": "1.0.0",
+  "slug": "JV",
+  "sdkVersion": "27.0.0",
+  "ios": {
+    "bundleIdentifier": "com.yourcompany.yourappname"
+  },
+  "android": {
+    "package": "com.jurvalidation.jurvalid"
+  }
+ }
+}
