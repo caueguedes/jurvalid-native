@@ -1,6 +1,7 @@
 {
  "expo": {
   "name": "Jurvalid",
+  "icon": "app/images/app-icon.png",
   "version": "1.0.0",
   "slug": "JV",
   "sdkVersion": "27.0.0",
